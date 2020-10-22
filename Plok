@@ -1,0 +1,84 @@
+import os
+
+os.system ("clear")
+
+print ("heloo")
+
+print ("my home")
+
+imo = ("plokplok")
+
+print (imo)
+
+po = 12345
+
+print (po)
+
+pl = ("plok")
+
+print (pl)
+
+pi = 1.2
+
+print (pi)
+
+#this code is erahb 
+
+print ("heloo")                    
+
+#imo = input ("tayp yuo are name:  ")
+
+#print ("yuor name:  "+imo)
+
+no_one =500000000
+
+no_two =900000000
+
+print (no_one*no_two)
+
+imo =("plokplok")
+
+print (imo +"1234")
+
+name =  input("tayp your name:  ")
+
+if name == "imoo":
+
+    print ("welcome")
+
+    print ("hi imoo")
+
+else:
+
+        print ("tayp 'imoo' ")
+
+        input ("=====>")
+
+        name =("imoo")
+
+        if name == "imoo" :
+
+            print ('welcome')
+
+x = 0
+
+#while x < 10:
+
+ #   print(x *1000000000000000000000)
+
+  #  x=x+2
+
+ #x = 0
+
+for x in range (10):
+
+    print ("moamel")
+
+    
+
+asp =["imoo","plok","abas"]
+
+asp.append ("imoo")
+
+print (asp[1]*5)
+
